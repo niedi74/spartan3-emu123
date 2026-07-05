@@ -1,0 +1,2 @@
+# Hub: peripheral (displays) + central (123TUNE / BM6). Default 3 is too low.
+CONFIG_BT_NIMBLE_MAX_CONNECTIONS=5
